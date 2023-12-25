@@ -1,0 +1,23 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "gpio.h": "c",
+    "task.h": "c",
+    "esp_random.h": "c",
+    "adc_oneshot.h": "c",
+    "adc_cali.h": "c",
+    "adc_cali_scheme.h": "c",
+    "soc_caps.h": "c",
+    "adc.h": "c",
+    "led_strip_encoder.h": "c",
+    "i2s.h": "c",
+    "i2s_types_legacy.h": "c",
+    "i2s_types.h": "c",
+    "esp_log.h": "c",
+    "*.inc": "cpp",
+    "esp_check.h": "c"
+  }
+}
